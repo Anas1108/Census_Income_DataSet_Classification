@@ -17,7 +17,7 @@ Two classification algorithms, Naive Bayes and Logistic Regression, are used in 
 
 ## Usage
 
-To run the code, simply open the `classification.ipynb` Jupyter Notebook and run the cells in order.
+To run the code, simply open the `Classification_using_the_Censu_ Income_DataSet.ipynb` Jupyter Notebook and run the cells in order.
 
 ## Results
 
